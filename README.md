@@ -18,7 +18,7 @@ A RubyMotion template to allow you to quickly create a new OS X status bar app u
 
 ## License
 
-Copyright 2013 Elliott Draper <el@kickcode.com>
+Copyright 2015 Elliott Draper <el@kickcode.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
