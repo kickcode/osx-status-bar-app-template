@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name = "osx-status-bar-app-template"
-  gem.version = "0.0.2"
+  gem.version = "0.0.3"
   gem.date = "2015-06-22"
   gem.summary = "OS X Status Bar App Template for RubyMotion"
   gem.description = "A RubyMotion app template to quickly start a new OS X status bar app"
